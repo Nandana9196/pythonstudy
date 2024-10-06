@@ -5,7 +5,7 @@ This project involves the analysis of a dataset of pharmacies across the United 
 ## **Project Structure**
 This repository contains the following key components:
 
-- `Analysis.py`: Python script that performs data cleaning, analysis, and visualization.
+- `PharmacyAnalysis.py`: Python script that performs data cleaning, analysis, and visualization.
 - `pharmacies_heatmap.html`: Heatmap showing the geographic distribution of pharmacies.
 - `pharmacies_by_state.png`: Bar plot showing the number of pharmacies by state.
 - `pharmacies_per_county.png`: Bar plot showing the number of pharmacies in the top 20 counties.
